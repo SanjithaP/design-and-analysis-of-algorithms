@@ -1,1 +1,1 @@
-'this sub-folder has the cpp code for kruskals algorithm'
+'this sub-folder has the cpp code for kruskal's algorithm'
