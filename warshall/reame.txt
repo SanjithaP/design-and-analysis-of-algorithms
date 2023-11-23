@@ -1,1 +1,1 @@
-'this subfolder has the cpp code for warshall algorithm'
+'this sub-folder has the cpp code for warshall algorithm'
